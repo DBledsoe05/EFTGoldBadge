@@ -12,3 +12,7 @@ C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Application
 C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\Komodo_Cafe_Test.csproj.CopyComplete
 C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\EFT_GoldBadge_Applications.dll
 C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\EFT_GoldBadge_Applications.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\MenuItems.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\MenuItems_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\MenuItems.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\MenuItems_Repository.pdb

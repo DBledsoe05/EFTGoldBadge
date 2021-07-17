@@ -49,11 +49,21 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Cafe_Repo_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MenuItems\Menu_Items_Poco.csproj">
+      <Project>{e5d17fca-732b-4e42-8f97-a753c9f01da6}</Project>
+      <Name>Menu_Items_Poco</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MenuItems_Repository\MenuItems_Repository.csproj">
+      <Project>{01f7d86a-db14-4503-8fc9-73be45bb15d6}</Project>
+      <Name>MenuItems_Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

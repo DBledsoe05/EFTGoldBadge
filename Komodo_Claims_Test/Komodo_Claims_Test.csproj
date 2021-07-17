@@ -49,11 +49,21 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="Claims_Repo_Test.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Claim_Poco\Claim_Poco.csproj">
+      <Project>{8a3b570e-0303-422c-b471-f456ed0d5557}</Project>
+      <Name>Claim_Poco</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Claim_Repository\Claim_Repository.csproj">
+      <Project>{4b547715-f86e-49b9-aa0c-2874bad6a52c}</Project>
+      <Name>Claim_Repository</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
