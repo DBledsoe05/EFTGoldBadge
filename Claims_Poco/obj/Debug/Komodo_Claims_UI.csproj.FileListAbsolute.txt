@@ -1,0 +1,12 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claims_Poco.exe.config
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claims_Poco.exe
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claims_Poco.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claim_Poco.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claim_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claim_Poco.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\bin\Debug\Claim_Repository.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\obj\Debug\Komodo_Claims_UI.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\obj\Debug\Komodo_Claims_UI.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\obj\Debug\Komodo_Claims_UI.csproj.CopyComplete
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\obj\Debug\Claims_Poco.exe
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claims_Poco\obj\Debug\Claims_Poco.pdb

@@ -1,0 +1,9 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\bin\Debug\Claim_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\bin\Debug\Claim_Repository.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\bin\Debug\Claim_Poco.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\bin\Debug\Claim_Poco.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\obj\Debug\Claim_Repository.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\obj\Debug\Claim_Repository.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\obj\Debug\Claim_Repository.csproj.CopyComplete
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\obj\Debug\Claim_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Repository\obj\Debug\Claim_Repository.pdb

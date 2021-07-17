@@ -1,0 +1,6 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems\bin\Debug\MenuItems.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems\bin\Debug\MenuItems.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems\obj\Debug\Menu_Items_Poco.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems\obj\Debug\Menu_Items_Poco.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems\obj\Debug\MenuItems.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems\obj\Debug\MenuItems.pdb

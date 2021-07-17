@@ -1,0 +1,9 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\bin\Debug\MenuItems_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\bin\Debug\MenuItems_Repository.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\bin\Debug\MenuItems.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\bin\Debug\MenuItems.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\obj\Debug\MenuItems_Repository.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\obj\Debug\MenuItems_Repository.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\obj\Debug\MenuItems_Repository.csproj.CopyComplete
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\obj\Debug\MenuItems_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\MenuItems_Repository\obj\Debug\MenuItems_Repository.pdb

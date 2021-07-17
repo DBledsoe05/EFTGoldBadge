@@ -1,0 +1,12 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_UI.exe.config
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_UI.exe
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_UI.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_Poco.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_Poco.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\bin\Debug\Badge_Repository.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\obj\Debug\Badge_UI.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\obj\Debug\Badge_UI.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\obj\Debug\Badge_UI.csproj.CopyComplete
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\obj\Debug\Badge_UI.exe
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Badge_UI\obj\Debug\Badge_UI.pdb

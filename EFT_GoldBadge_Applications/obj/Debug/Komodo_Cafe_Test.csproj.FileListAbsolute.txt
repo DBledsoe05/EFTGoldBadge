@@ -1,0 +1,14 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\EFT_GoldBadge_Applications.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\EFT_GoldBadge_Applications.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\Komodo_Cafe_Test.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\Komodo_Cafe_Test.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\Komodo_Cafe_Test.csproj.CopyComplete
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\EFT_GoldBadge_Applications.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\EFT_GoldBadge_Applications\obj\Debug\EFT_GoldBadge_Applications.pdb

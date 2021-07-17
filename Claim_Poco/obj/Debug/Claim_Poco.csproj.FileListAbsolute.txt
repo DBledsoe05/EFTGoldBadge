@@ -1,0 +1,6 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Poco\bin\Debug\Claim_Poco.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Poco\bin\Debug\Claim_Poco.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Poco\obj\Debug\Claim_Poco.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Poco\obj\Debug\Claim_Poco.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Poco\obj\Debug\Claim_Poco.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Claim_Poco\obj\Debug\Claim_Poco.pdb

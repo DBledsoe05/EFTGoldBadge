@@ -1,0 +1,12 @@
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\Komodo_Cafe_UI.exe.config
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\Komodo_Cafe_UI.exe
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\Komodo_Cafe_UI.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\MenuItems.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\MenuItems_Repository.dll
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\MenuItems.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\bin\Debug\MenuItems_Repository.pdb
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\obj\Debug\Komodo_Cafe_UI.csprojAssemblyReference.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\obj\Debug\Komodo_Cafe_UI.csproj.CoreCompileInputs.cache
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\obj\Debug\Komodo_Cafe_UI.csproj.CopyComplete
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\obj\Debug\Komodo_Cafe_UI.exe
+C:\Users\oo7d2\source\repos\EFT_GoldBadge_Applications\Komodo_Cafe_UI\obj\Debug\Komodo_Cafe_UI.pdb
